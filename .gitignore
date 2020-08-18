@@ -1,0 +1,8 @@
+#For editor
+venv
+.vscode
+
+# Django dependencies
+*.sqlite3
+__pycache__
+*.pyc
