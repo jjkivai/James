@@ -1,0 +1,9 @@
+# remove python files
+__pycache__
+*.pyc
+
+# remove IDE components
+.vscode
+
+# remove databases
+*.sqlite3
